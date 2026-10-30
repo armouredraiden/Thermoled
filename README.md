@@ -5,11 +5,8 @@ This is a circuit simulation which will detect the temperature using a temperatu
 Components:
 Arduino Uno – 1
 Temperature Sensor – 1
-Resistor and capacitor – as and if required
+2 Resistors - 4.7k ohm and 220 ohm
 16×2 LCD Display – 1
 LED
 Breadboard – 1
 Jumper Wires – As required
-What to submit:
-1. A public Google Docs link explaining how the project was done, complete with output screenshots and step-by-step explanations.
-2. Tinkercad or Wokwi project link.
